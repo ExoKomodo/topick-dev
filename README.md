@@ -7,3 +7,11 @@ dev environment for Topick, overriding the configuration for Topick and deploys 
 - [Repository](https://github.com/ExoKomodo/topick-dev)
 - [Topick UI](https://dev.topick.fyi)
 
+## Updating topick
+
+Run `update.sh`
+
+```shell
+./update.sh
+```
+
