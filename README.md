@@ -1,9 +1,9 @@
-# Topick - <ENV>
+# Topick - dev
 
-<ENV> environment for Topick, overriding the configuration for Topick and deploys it to <ENV>
+dev environment for Topick, overriding the configuration for Topick and deploys it to dev
 
 ## Important Links
 
-- [Repository](https://github.com/ExoKomodo/topick-<ENV>)
-- [Topick UI](https://<ENV>.topick.fyi)
+- [Repository](https://github.com/ExoKomodo/topick-dev)
+- [Topick UI](https://dev.topick.fyi)
 
