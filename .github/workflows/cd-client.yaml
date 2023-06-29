@@ -3,7 +3,7 @@ name: CD (client)
 on:
   push:
     branches:
-      - main
+      - '*'
 
 jobs:
   deploy:
